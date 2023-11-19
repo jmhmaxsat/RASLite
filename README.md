@@ -9,7 +9,9 @@ Enhancing (W)PMS Solver Performance: RASLite’s Innovative Approaches and Super
 On a Unix/Linux machine, execute the following commands:
 
 unzip RASLite-main.zip
+
 cd RASLite-main
+
 make
 
 An executable file called RASLite will now be available in the RASLite-main directory.  

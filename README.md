@@ -13,7 +13,7 @@ cd RASLite
 make
 ```
 
-An executable file called RASLite will now be available in the RASLite directory.  
+After compilation, an executable file named RASLite will be available in the RASLite directory.
 To run the algorithm, use the following command: `./RASLite instance_name`.
 
 ## Contact

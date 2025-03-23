@@ -14,7 +14,7 @@ make
 ```
 
 An executable file called RASLite will now be available in the RASLite directory.  
-o run the algorithm, use the following command: `./RASLite instance_name`.
+To run the algorithm, use the following command: `./RASLite instance_name`.
 
 ## Contact
 

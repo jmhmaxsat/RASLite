@@ -6,7 +6,7 @@ This repository contains the implementation of the RASLite algorithm for MaxSAT,
 
 ## Installation
 
-To install and run RASLite on a Unix/Linux machine, execute the following commands:
+To install and compile RASLite on a Unix/Linux machine, execute the following commands:
 ```
 git clone https://github.com/jmhmaxsat/RASLite.git  
 cd RASLite

@@ -4,7 +4,7 @@ This repository contains the implementation of the RASLite algorithm for MaxSAT,
 
 [RASLite: Enhancing (W)PMS Solvers Through a Dynamic Initial Weight Approach](https://ieeexplore.ieee.org/abstract/document/10580189)
 
-## Downloading, Compiling, and Running
+## Usage Guide
 
 To install and compile RASLite on a Unix/Linux machine, execute the following commands:
 ```

@@ -22,8 +22,5 @@ For questions and suggestions, please contact jiangmenghua@m.scnu.edu.cn.
 
 ## Acknowledgements​​
 
-We gratefully acknowledge the authors of [SATLike3.0](https://lcs.ios.ac.cn/~caisw/Code/maxsat/) for sharing their code.
+We gratefully acknowledge the authors of [SATLike3.0](https://lcs.ios.ac.cn/~caisw/Code/maxsat/) for sharing their code. RASLite is developed based on SATLike3.0 and inherits its licensing terms, as detailed in the [LICENSE.md](https://github.com/jmhmaxsat/RASLite/blob/main/LICENSE.md) file.
 
-RASLite is developed based on SATLike3.0 and inherits its licensing terms. 
-
-The full license text is available in this project's [LICENSE.md](https://github.com/jmhmaxsat/RASLite/blob/main/LICENSE.md) file.

@@ -20,7 +20,10 @@ To run the algorithm, use the following command: `./RASLite instance_name`.
 
 For questions and suggestions, please contact jiangmenghua@m.scnu.edu.cn.
 
-## Acknowledgement
+## Acknowledgements​​
 
-We thank the authors of [SATLike3.0](https://lcs.ios.ac.cn/~caisw/Code/maxsat/) for sharing their codes.
-SATLC is developed based on SATLike3.0 and follows the privacy policy of SATLike3.0 (LICENSE.md).
+We gratefully acknowledge the authors of [SATLike3.0](https://lcs.ios.ac.cn/~caisw/Code/maxsat/) for sharing their code.
+
+RASLite is developed based on SATLike3.0 and inherits its licensing terms. 
+
+The full license text is available in this project's [LICENSE.md](https://github.com/jmhmaxsat/RASLite/blob/main/LICENSE.md) file.

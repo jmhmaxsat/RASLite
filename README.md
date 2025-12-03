@@ -1,5 +1,4 @@
-# RASLite
-> RASLite: Enhancing (W)PMS Solvers Through a Dynamic Initial Weight Approach  
+# RASLite: Enhancing (W)PMS Solvers Through a Dynamic Initial Weight Approach  
 > Menghua Jiang, Yin Chen  
 > *Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)*
 

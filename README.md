@@ -1,6 +1,6 @@
 # RASLite
 
-This repository contains the implementation of the RASLite algorithm for MaxSAT, as proposed in our paper:   
+This repository contains the implementation of the RASLite algorithm for (W)PMS, as proposed in our paper:   
 > *RASLite: Enhancing (W)PMS Solvers Through a Dynamic Initial Weight Approach*  
 
 
